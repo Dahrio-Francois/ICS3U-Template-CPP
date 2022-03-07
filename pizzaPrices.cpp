@@ -1,7 +1,7 @@
 // Copyright (c) 2019 St. Mother Teresa HS All rights reserved.
 //
-// Created by: Mr. Coxall
-// Created on: Sep 2020
+// Created by: Dahrio Francois
+// Created on: March 2022
 // This program calculates the cost of pizza
 #include <iostream>
 #include <iomanip>
